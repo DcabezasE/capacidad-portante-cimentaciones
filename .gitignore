@@ -27,3 +27,6 @@ Thumbs.db
 
 # Kiro
 .kiro/
+
+# Librerías instaladas localmente (solo para generar la presentación)
+.pylibs/
